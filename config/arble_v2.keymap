@@ -27,7 +27,7 @@
         ARROW {
             bindings = <
 &kp C_PLAY_PAUSE   &kp TILDE  &kp F1  &kp F2  &kp F3  &kp F4  &kp F5  &kp F6  &kp F7  &kp F8  &kp F9  &kp F10          &kp F11       &trans           &trans  &trans
-&kp C_VOLUME_UP    &kp CAPS   &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp PRINTSCREEN  &kp UP_ARROW  &trans           &trans
+&kp C_VOLUME_UP    &trans     &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp PRINTSCREEN  &kp UP_ARROW  &trans           &trans
 &kp C_VOLUME_DOWN  &trans     &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp LEFT         &kp RIGHT     &rgb_ug RGB_TOG
 &trans             &trans     &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp DOWN         &trans        &trans
 &trans             &trans     &trans  &trans  &trans  &trans  &trans
